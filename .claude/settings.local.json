@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(New-Item -ItemType Directory -Force \"C:\\\\Donghyun\\\\github_webpage\\\\publication\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"C:\\\\Donghyun\\\\github_webpage\\\\research\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"C:\\\\Donghyun\\\\github_webpage\\\\contact\")",
+      "WebFetch(domain:www.kspark.me)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "WebFetch(domain:raw.githubusercontent.com)"
+    ]
+  }
+}
